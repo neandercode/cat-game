@@ -1,0 +1,85 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "catworld.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.3648,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1277.4122807017543,
+                "y": 385.142543859649
+            }
+        },
+        "catworld.tmx#Flag": {
+            "scaleInDock": 1
+        },
+        "catworld.tmx#catformer": {
+            "dynamicWrapping": false,
+            "scaleInEditor": 1
+        },
+        "catworld.tmx#newtileset": {
+            "scaleInDock": 1
+        },
+        "catworld2.tmx": {
+            "scale": 0.3648,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1962.719298245614,
+                "y": 179.55043859649118
+            }
+        },
+        "catworld2.tmx#fishy": {
+            "scaleInDock": 1
+        },
+        "catworld2.tmx#newtileset": {
+            "scaleInDock": 1
+        },
+        "untitled.tmx": {
+            "scale": 0.2573,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 991.061018266615,
+                "y": 884.1818888457054
+            }
+        },
+        "untitled.tmx#newtileset": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/josephjones/Desktop/cat game/maps",
+    "last.imagePath": "/Users/josephjones/Desktop/cat game/maps",
+    "map.height": 12,
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 40,
+    "openFiles": [
+        "catworld2.tmx",
+        "catworld.tmx",
+        "untitled.tmx"
+    ],
+    "project": "firstworld.tiled-project",
+    "recentFiles": [
+        "catworld2.tmx",
+        "catworld.tmx",
+        "untitled.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
